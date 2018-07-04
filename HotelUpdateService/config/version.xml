@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<application>
+	<app name="main" version="1.0.0.20180704_release"/>
+	<app name="face" version="1.0.0.20180705_release"/>
+</application>

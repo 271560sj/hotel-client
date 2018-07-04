@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelUpdateService", "HotelUpdateService\HotelUpdateService.csproj", "{6AD468B0-72FC-4585-8376-33F08BABC9DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{6AD468B0-72FC-4585-8376-33F08BABC9DF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F74662E2-87DE-4B95-AB38-EB6A407BA7AC}
+	EndGlobalSection
+EndGlobal

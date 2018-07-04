@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+	<!--记录组件名称，标识更新包属于哪一个组件-->
+	<name>main</name>
+	<!--记录程序的回调程序，用于启动程序-->
+	<callback>main.exe</callback>
+	<!--回调程序的相对路径-->
+	<path></path>
+	<!--升级包的hash值-->
+	<hash></hash>
+</application>

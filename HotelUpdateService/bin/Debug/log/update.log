@@ -1,0 +1,670 @@
+﻿2018-07-04 16:06:02,803 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: task hotelUpdateTask 's state is TASK_STATE_READY
+2018-07-04 16:06:30,833 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-04 16:06:31,245 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-04 16:08:21,458 [1]ERROR HotelUpdateService.update.utils.JsonUtils - Error: Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 HotelUpdateService.update.utils.JsonUtils.getResultEntity(String str) 位置 D:\idespace\HotelUpdateService\HotelUpdateService\update\utils\JsonUtils.cs:行号 86
+2018-07-04 16:08:43,398 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: check app version from server failed.
+2018-07-04 16:08:58,987 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: the app has not been update in server.
+2018-07-04 09:15:46,756 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-04 09:15:47,641 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-04 09:15:47,800 [1]ERROR HotelUpdateService.update.utils.JsonUtils - Error: Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 HotelUpdateService.update.utils.JsonUtils.getResultEntity(String str) 位置 D:\idespace\HotelUpdateService\HotelUpdateService\update\utils\JsonUtils.cs:行号 86
+2018-07-04 09:15:47,826 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: check app version from server failed.
+2018-07-04 09:15:47,827 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: the app has not been update in server.
+2018-07-04 09:17:33,319 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-04 09:17:33,659 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-04 09:17:33,856 [1]ERROR HotelUpdateService.update.utils.JsonUtils - Error: Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 HotelUpdateService.update.utils.JsonUtils.getResultEntity(String str) 位置 D:\idespace\HotelUpdateService\HotelUpdateService\update\utils\JsonUtils.cs:行号 86
+2018-07-04 09:17:33,880 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: check app version from server failed.
+2018-07-04 09:17:33,881 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: the app has not been update in server.
+2018-07-04 09:17:59,298 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-04 09:17:59,545 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-04 09:17:59,646 [1]ERROR HotelUpdateService.update.utils.JsonUtils - Error: Newtonsoft.Json.JsonReaderException: Error reading JObject from JsonReader. Path '', line 0, position 0.
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 HotelUpdateService.update.utils.JsonUtils.getResultEntity(String str) 位置 D:\idespace\HotelUpdateService\HotelUpdateService\update\utils\JsonUtils.cs:行号 86
+2018-07-04 09:17:59,670 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: check app version from server failed.
+2018-07-04 09:17:59,671 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: the app has not been update in server.
+2018-07-05 09:16:01,001 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 09:16:01,177 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 09:16:01,192 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 09:16:01,200 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,201 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,203 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,204 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/name.1.0.0.20180603_release", "fileName": "name.1.0.0.20180603_release.exe","localSize": "0"}
+2018-07-05 09:16:01,208 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 09:16:01,209 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 09:16:01,211 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 09:16:01,249 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request failed,response code is 
+2018-07-05 09:16:01,251 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: download file error.
+2018-07-05 09:16:01,251 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 09:16:01,252 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,253 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,254 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 09:16:01,255 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/name.1.0.0.20180603_release", "fileName": "name.1.0.0.20180603_release.exe","localSize": "0"}
+2018-07-05 09:16:01,256 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 09:16:01,257 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 09:16:01,259 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 09:16:01,514 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request success,response code is 
+2018-07-05 09:16:02,165 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 09:16:02,178 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 10:01:45,978 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 10:01:46,161 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 10:02:31,415 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 10:02:31,418 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 31718864
+2018-07-05 10:02:31,418 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 31718864
+2018-07-05 10:02:31,419 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 31718864
+2018-07-05 10:02:31,420 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/name.1.0.0.20180603_release", "fileName": "name.1.0.0.20180603_release.exe","localSize": "31718864"}
+2018-07-05 10:02:31,422 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 10:02:31,423 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 10:02:31,425 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 10:02:31,436 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request failed,response code is 
+2018-07-05 10:02:31,437 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: download file error.
+2018-07-05 10:02:52,236 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 10:02:52,237 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 10:02:52,239 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 10:02:52,242 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 10:02:52,244 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/name.1.0.0.20180603_release", "fileName": "name.1.0.0.20180603_release.exe","localSize": "0"}
+2018-07-05 10:02:52,246 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 10:02:52,247 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 10:02:52,248 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 10:02:52,417 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request success,response code is 
+2018-07-05 10:03:15,408 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 10:03:15,422 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 11:01:00,870 [1]ERROR HotelUpdateService.update.utils.CommonUtils - Error: System.Net.NetworkInformation.PingException: Ping 请求期间发生异常。 ---> System.Net.Sockets.SocketException: 不知道这样的主机。
+   在 System.Net.Dns.GetAddrInfo(String name)
+   在 System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   在 System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   在 System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.NetworkInformation.Ping.Send(String hostNameOrAddress, Int32 timeout, Byte[] buffer, PingOptions options)
+   在 HotelUpdateService.update.utils.CommonUtils.checkNetwork(String ip) 位置 D:\idespace\HotelUpdateService\HotelUpdateService\update\utils\CommonUtils.cs:行号 581
+2018-07-05 11:15:54,480 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:15:54,659 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 11:16:03,574 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:16:03,576 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 11:16:03,577 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 11:16:03,578 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/name.1.0.0.20180603_release, file name is name.1.0.0.20180603_release.exe, local file size is 0
+2018-07-05 11:16:03,579 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/name.1.0.0.20180603_release", "fileName": "name.1.0.0.20180603_release.exe","localSize": "0"}
+2018-07-05 11:16:03,582 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 11:16:03,583 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 11:16:03,584 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 11:16:03,909 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request success,response code is OK
+2018-07-05 11:20:03,097 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:20:03,300 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 11:20:20,293 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:20:20,296 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 0
+2018-07-05 11:20:20,297 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 0
+2018-07-05 11:20:20,298 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 0
+2018-07-05 11:20:20,298 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/hotelhelp.2.0.1.20180704_release", "fileName": "hotelhelp.2.0.1.20180704_release.tar","localSize": "0"}
+2018-07-05 11:20:20,301 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 11:20:20,302 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 11:20:20,303 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 11:20:21,597 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request success,response code is OK
+2018-07-05 11:21:17,668 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:21:17,871 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 11:21:40,340 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:21:45,431 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 75173951
+2018-07-05 11:21:45,432 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 75173951
+2018-07-05 11:21:45,435 [1]INFO  HotelUpdateService.update.entity.PostData - Info: remote path is software/hotelhelp.2.0.1.20180704_release, file name is hotelhelp.2.0.1.20180704_release.tar, local file size is 75173951
+2018-07-05 11:21:45,436 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request parame is { "remote": "software/hotelhelp.2.0.1.20180704_release", "fileName": "hotelhelp.2.0.1.20180704_release.tar","localSize": "75173951"}
+2018-07-05 11:21:45,439 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get request stream success.
+2018-07-05 11:21:45,442 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: write request stream to byte array success.
+2018-07-05 11:21:45,444 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: start request for server......
+2018-07-05 11:21:46,308 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: request success,response code is OK
+2018-07-05 11:22:18,782 [1]INFO  HotelUpdateService.update.service.UpdateVersion - Info: version manager server config file path is D:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\config\version-server.json
+2018-07-05 11:22:18,802 [1]INFO  HotelUpdateService.update.utils.HttpUtils - Info: get http request success.
+2018-07-05 11:22:32,358 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: download file success.
+2018-07-05 11:22:54,487 [1]INFO  HotelUpdateService.update.controller.UpdateController - Info: back up local app info success.
+2018-07-05 11:22:57,248 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/
+2018-07-05 11:22:57,250 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/install.bat
+2018-07-05 11:22:57,254 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/InstallUtil.InstallLog
+2018-07-05 11:22:57,256 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/
+2018-07-05 11:22:57,259 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/142702198609221517.bmp
+2018-07-05 11:22:57,262 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/142702198609221517.jpg
+2018-07-05 11:22:57,265 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/142702198609221517card.jpg
+2018-07-05 11:22:57,273 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/52270119821015197X.bmp
+2018-07-05 11:22:57,276 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/52270119821015197X.jpg
+2018-07-05 11:22:57,279 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/52270119821015197Xcard.jpg
+2018-07-05 11:22:57,282 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Controls.dll
+2018-07-05 11:22:57,286 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Controls.xml
+2018-07-05 11:22:57,289 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.dll
+2018-07-05 11:22:57,293 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Video.DirectShow.dll
+2018-07-05 11:22:57,297 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Video.DirectShow.xml
+2018-07-05 11:22:57,300 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Video.dll
+2018-07-05 11:22:57,304 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.Video.xml
+2018-07-05 11:22:57,308 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/AForge.xml
+2018-07-05 11:22:57,311 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/ChnCharInfo.dll
+2018-07-05 11:22:57,316 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/
+2018-07-05 11:22:57,318 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/
+2018-07-05 11:22:57,320 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/
+2018-07-05 11:22:57,321 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/acr120u.dll
+2018-07-05 11:22:57,324 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/AcsReader.dll
+2018-07-05 11:22:57,328 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/btlock57L.dll
+2018-07-05 11:22:57,332 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/btlock73L.dll
+2018-07-05 11:22:57,337 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/btmf1232.dll
+2018-07-05 11:22:57,340 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/btmf1usb.dll
+2018-07-05 11:22:57,343 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/CH375DLL.DLL
+2018-07-05 11:22:57,346 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/Data.dll
+2018-07-05 11:22:57,351 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/EasyD12_500.dll
+2018-07-05 11:22:57,354 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/zymsr232.dll
+2018-07-05 11:22:57,357 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/zymurusb.dll
+2018-07-05 11:22:57,359 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BDLock/º¯ÊýËµÃ÷ÎÄµµ.doc
+2018-07-05 11:22:57,362 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/
+2018-07-05 11:22:57,364 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/
+2018-07-05 11:22:57,366 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:57,369 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/libInterfaceT307V10.dll
+2018-07-05 11:22:57,373 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/libstdc++-6.dll
+2018-07-05 11:22:57,378 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/libwinpthread-1.dll
+2018-07-05 11:22:57,381 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x64/nspr4.dll
+2018-07-05 11:22:57,384 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/
+2018-07-05 11:22:57,386 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:57,389 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/libInterfaceT307V10.dll
+2018-07-05 11:22:57,392 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/libstdc++-6.dll
+2018-07-05 11:22:57,396 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/libwinpthread-1.dll
+2018-07-05 11:22:57,399 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/BZ_V9/x86/nspr4.dll
+2018-07-05 11:22:57,402 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/
+2018-07-05 11:22:57,404 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/EasyD12_500.dll
+2018-07-05 11:22:57,406 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/HSDApp.dll
+2018-07-05 11:22:57,409 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/Interop.DigiCard.dll
+2018-07-05 11:22:57,411 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MasterCom.dll
+2018-07-05 11:22:57,415 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MasterRD.dll
+2018-07-05 11:22:57,419 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MF1Card.dll
+2018-07-05 11:22:57,422 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MFC42D.DLL
+2018-07-05 11:22:57,427 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MFCO42D.DLL
+2018-07-05 11:22:57,433 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MSVCRTD.DLL
+2018-07-05 11:22:57,437 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MURDJE.dll
+2018-07-05 11:22:57,441 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/Mwic_32.dll
+2018-07-05 11:22:57,444 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/MWRF32.dll
+2018-07-05 11:22:57,447 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/Reg.bat
+2018-07-05 11:22:57,450 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/regsvr32.exe
+2018-07-05 11:22:57,453 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/DJELock/Setting.ini
+2018-07-05 11:22:57,456 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/JW/
+2018-07-05 11:22:57,458 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/JW/LockDll.dll
+2018-07-05 11:22:57,460 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/
+2018-07-05 11:22:57,462 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/DataReader.dll
+2018-07-05 11:22:57,466 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/des.dll
+2018-07-05 11:22:57,471 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/EasyD12_500.dll
+2018-07-05 11:22:57,474 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/EasyZUSBMulti.dll
+2018-07-05 11:22:57,477 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/HOOKS_M1.dll
+2018-07-05 11:22:57,480 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/HSDApp.dll
+2018-07-05 11:22:57,483 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/LockSDK.dll
+2018-07-05 11:22:57,489 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/MF0SIM.dll
+2018-07-05 11:22:57,492 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/PubFuns.dll
+2018-07-05 11:22:57,495 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/RC500USB.dll
+2018-07-05 11:22:57,498 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/RF50S.dll
+2018-07-05 11:22:57,501 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/RF57S.dll
+2018-07-05 11:22:57,504 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/MDLock/Rf_Rw.dll
+2018-07-05 11:22:57,506 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/PLD/
+2018-07-05 11:22:57,508 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/PLD/D12F.dll
+2018-07-05 11:22:57,512 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/PLD/MFC42D.DLL
+2018-07-05 11:22:57,516 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/PLD/MSVCRTD.DLL
+2018-07-05 11:22:57,519 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/PLD/V9RF.dll
+2018-07-05 11:22:57,524 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/
+2018-07-05 11:22:57,526 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/DataReader.dll
+2018-07-05 11:22:57,528 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/des.dll
+2018-07-05 11:22:57,530 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/EasyD12_500.dll
+2018-07-05 11:22:57,533 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/EasyZUSBMulti.dll
+2018-07-05 11:22:57,535 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/HOOKS_M1.dll
+2018-07-05 11:22:57,538 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/HSDApp.dll
+2018-07-05 11:22:57,540 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockCard.dll
+2018-07-05 11:22:57,542 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockInfo.dll
+2018-07-05 11:22:57,544 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockReg.exe
+2018-07-05 11:22:57,547 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockSDK.dll
+2018-07-05 11:22:57,550 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockSDK_Demo.exe
+2018-07-05 11:22:57,552 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockSDK_Demo.pdb
+2018-07-05 11:22:57,554 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockSDK_Demo.vshost.exe
+2018-07-05 11:22:57,557 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/LockSDK_Demo.vshost.exe.manifest
+2018-07-05 11:22:57,559 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/MF0SIM.dll
+2018-07-05 11:22:57,561 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/PubFuns.dll
+2018-07-05 11:22:57,564 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/RC500USB.dll
+2018-07-05 11:22:57,566 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/RF50S.dll
+2018-07-05 11:22:57,569 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/RF57S.dll
+2018-07-05 11:22:57,571 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/Rf_Rw.dll
+2018-07-05 11:22:57,574 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/ToolsLanguage-en.ini
+2018-07-05 11:22:57,576 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/TG/ToolsLanguage.ini
+2018-07-05 11:22:57,578 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/WR/
+2018-07-05 11:22:57,580 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/WR/CardWR.dll
+2018-07-05 11:22:57,583 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/
+2018-07-05 11:22:57,585 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/d12.dll
+2018-07-05 11:22:57,587 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/d12c.dll
+2018-07-05 11:22:57,592 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/JKXYLOCK.dll
+2018-07-05 11:22:57,594 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/LCRFRW_SDK.dll
+2018-07-05 11:22:57,596 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/proRFL.dll
+2018-07-05 11:22:57,599 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/proRFL.lib
+2018-07-05 11:22:57,602 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/dll/Lock/XYD/XYID.dll
+2018-07-05 11:22:57,605 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/EntityFramework.dll
+2018-07-05 11:22:57,615 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:57,618 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:57,621 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Controls.dll
+2018-07-05 11:22:57,624 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Controls.pdb
+2018-07-05 11:22:57,626 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Lock.dll
+2018-07-05 11:22:57,628 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Lock.dll.config
+2018-07-05 11:22:57,631 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Lock.pdb
+2018-07-05 11:22:57,633 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Main.exe
+2018-07-05 11:22:57,652 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Main.exe.config
+2018-07-05 11:22:57,655 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Main.pdb
+2018-07-05 11:22:57,658 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:57,661 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:57,665 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:57,667 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.ReceiptPrinter.dll
+2018-07-05 11:22:57,670 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.ReceiptPrinter.pdb
+2018-07-05 11:22:57,673 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.WCFClient.dll
+2018-07-05 11:22:57,676 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelp.IntelligentClient.WCFClient.pdb
+2018-07-05 11:22:57,678 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelper.RPC.Models.dll
+2018-07-05 11:22:57,680 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/HotelHelper.RPC.Utility.dll
+2018-07-05 11:22:57,683 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/images/
+2018-07-05 11:22:57,685 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/images/left7.png
+2018-07-05 11:22:57,688 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/images/LOGO.png
+2018-07-05 11:22:57,691 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/K750.dll
+2018-07-05 11:22:57,693 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/log20180630.log
+2018-07-05 11:22:57,697 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/log20180701.log
+2018-07-05 11:22:57,699 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/log4net.dll
+2018-07-05 11:22:57,702 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/Newtonsoft.Json.dll
+2018-07-05 11:22:57,706 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/Newtonsoft.Json.xml
+2018-07-05 11:22:57,709 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/PMS.dll
+2018-07-05 11:22:57,712 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/PMS.dll.config
+2018-07-05 11:22:57,715 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/PMS.pdb
+2018-07-05 11:22:57,717 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/tempIDImage.jpg
+2018-07-05 11:22:57,720 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/XML/
+2018-07-05 11:22:57,722 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/XML/Main.xml
+2018-07-05 11:22:57,724 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/XML/RoomType.xml
+2018-07-05 11:22:57,726 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/
+2018-07-05 11:22:57,728 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/3ÈË¼ä.png
+2018-07-05 11:22:57,731 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ÉÌÎñµ¥¼ä.png
+2018-07-05 11:22:57,734 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ÉÌÎñ±ê¼ä.png
+2018-07-05 11:22:57,738 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/Ì×·¿.png
+2018-07-05 11:22:57,742 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ÆÕÍ¨µ¥¼ä.png
+2018-07-05 11:22:57,746 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ÆÕÍ¨±ê¼ä.png
+2018-07-05 11:22:57,749 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ÌØ¼Ûµ¥¼ä.png
+2018-07-05 11:22:57,753 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ºÀ»ªµ¥¼ä.png
+2018-07-05 11:22:57,757 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/ºÀ»ª±ê¼ä.png
+2018-07-05 11:22:57,761 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/Âé½«µ¥¼ä.png
+2018-07-05 11:22:57,765 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/Main/·¿ÐÍÍ¼Æ¬/Âé½«±ê¼ä.png
+2018-07-05 11:22:57,768 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/
+2018-07-05 11:22:57,770 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/ChnCharInfo.dll
+2018-07-05 11:22:57,773 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/EntityFramework.dll
+2018-07-05 11:22:57,782 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/InstallUtil.exe
+2018-07-05 11:22:57,785 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/InstallUtil.InstallLog
+2018-07-05 11:22:57,788 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/log4net.dll
+2018-07-05 11:22:57,791 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/Newtonsoft.Json.dll
+2018-07-05 11:22:57,794 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMS.dll
+2018-07-05 11:22:57,797 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMS.dll.config
+2018-07-05 11:22:57,800 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMS.pdb
+2018-07-05 11:22:57,802 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMSWindowsService.exe
+2018-07-05 11:22:57,805 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMSWindowsService.InstallLog
+2018-07-05 11:22:57,807 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PMSWindowsService/PMSWindowsService.pdb
+2018-07-05 11:22:57,810 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/
+2018-07-05 11:22:57,811 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/Police.dll
+2018-07-05 11:22:57,813 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/Police.dll.config
+2018-07-05 11:22:57,816 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/Police.pdb
+2018-07-05 11:22:57,819 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/PoliceWindowsService1.exe
+2018-07-05 11:22:57,821 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/PoliceWindowsService1.InstallLog
+2018-07-05 11:22:57,823 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/PoliceWindowsService1/PoliceWindowsService1.pdb
+2018-07-05 11:22:57,826 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/
+2018-07-05 11:22:57,828 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/InstallUtil.exe
+2018-07-05 11:22:57,830 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/InstallUtil.InstallLog
+2018-07-05 11:22:57,832 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCode.dll
+2018-07-05 11:22:57,835 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCode.dll.config
+2018-07-05 11:22:57,838 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCode.pdb
+2018-07-05 11:22:57,840 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCodeWindowsService.exe
+2018-07-05 11:22:57,842 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCodeWindowsService.InstallLog
+2018-07-05 11:22:57,844 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/QrCodeWindowsService.pdb
+2018-07-05 11:22:57,847 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/QrCodeWindowsService/vbar.dll
+2018-07-05 11:22:57,850 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/
+2018-07-05 11:22:57,851 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/AipSdk.dll
+2018-07-05 11:22:57,854 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/
+2018-07-05 11:22:57,857 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/
+2018-07-05 11:22:57,858 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/
+2018-07-05 11:22:57,860 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/cublas32_65.dll
+2018-07-05 11:22:57,897 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/cudart32_65.dll
+2018-07-05 11:22:57,900 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/cufft32_65.dll
+2018-07-05 11:22:57,955 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/cufftw32_65.dll
+2018-07-05 11:22:57,958 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/curand32_65.dll
+2018-07-05 11:22:58,030 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/FaceCompare.dll
+2018-07-05 11:22:58,034 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/FaceCompare.lib
+2018-07-05 11:22:58,036 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/FaceCompareDLL.h
+2018-07-05 11:22:58,038 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/facedetectauthlib.dll
+2018-07-05 11:22:58,041 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/FaceDetect_x86.dll
+2018-07-05 11:22:58,045 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/FaceFeature_x86.dll
+2018-07-05 11:22:58,048 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/fea.bin
+2018-07-05 11:22:58,063 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/ldmk.bin
+2018-07-05 11:22:58,066 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libctools.1.0.0_x86.dll
+2018-07-05 11:22:58,076 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libgcc_s_dw2-1.dll
+2018-07-05 11:22:58,080 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libgfortran-3.dll
+2018-07-05 11:22:58,084 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libglog.dll
+2018-07-05 11:22:58,087 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libopenblas.dll
+2018-07-05 11:22:58,122 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libquadmath-0.dll
+2018-07-05 11:22:58,126 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libuctools.3.5.0_x86.dll
+2018-07-05 11:22:58,149 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/libwinpthread-1.dll
+2018-07-05 11:22:58,151 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/msvcp120.dll
+2018-07-05 11:22:58,155 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/msvcr120.dll
+2018-07-05 11:22:58,159 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/opencv_core249.dll
+2018-07-05 11:22:58,165 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/opencv_ffmpeg249.dll
+2018-07-05 11:22:58,184 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/opencv_highgui249.dll
+2018-07-05 11:22:58,191 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/opencv_imgproc249.dll
+2018-07-05 11:22:58,196 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/DLL/Face/JL/Sdtapi.dll
+2018-07-05 11:22:58,200 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/FaceCompare.dll
+2018-07-05 11:22:58,203 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/FaceCompare.pdb
+2018-07-05 11:22:58,206 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:58,209 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:58,212 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:58,215 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:58,219 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:58,222 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelper.RPC.Models.dll
+2018-07-05 11:22:58,225 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/HotelHelper.RPC.Utility.dll
+2018-07-05 11:22:58,229 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/install - ¸±±¾.bat
+2018-07-05 11:22:58,233 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/install.bat
+2018-07-05 11:22:58,237 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/MySql.Data.dll
+2018-07-05 11:22:58,242 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/Newtonsoft.Json.dll
+2018-07-05 11:22:58,246 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/Newtonsoft.Json.xml
+2018-07-05 11:22:58,254 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/ServiceFaceCompare.exe
+2018-07-05 11:22:58,260 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/ServiceFaceCompare.exe.config
+2018-07-05 11:22:58,265 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/ServiceFaceCompare.InstallLog
+2018-07-05 11:22:58,273 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceFaceCompare/ServiceFaceCompare.pdb
+2018-07-05 11:22:58,280 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/
+2018-07-05 11:22:58,283 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/
+2018-07-05 11:22:58,288 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/
+2018-07-05 11:22:58,290 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/
+2018-07-05 11:22:58,309 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/Dewlt.dll
+2018-07-05 11:22:58,312 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/DllValidate.exe
+2018-07-05 11:22:58,316 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/SavePhoto.dll
+2018-07-05 11:22:58,322 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/Sdtapi.dll
+2018-07-05 11:22:58,325 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/sdtapi.h
+2018-07-05 11:22:58,328 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/Sdtapi.lib
+2018-07-05 11:22:58,331 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/DLL/ID/JL/¶þ´Î¿ª·¢½Ó¿ÚËµÃ÷V4.0.doc
+2018-07-05 11:22:58,334 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:58,338 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:58,340 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.IDReader.dll
+2018-07-05 11:22:58,343 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.IDReader.pdb
+2018-07-05 11:22:58,346 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:58,349 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:58,351 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:58,355 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelper.RPC.Models.dll
+2018-07-05 11:22:58,358 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/HotelHelper.RPC.Utility.dll
+2018-07-05 11:22:58,361 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/install - ¸±±¾.bat
+2018-07-05 11:22:58,364 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/install.bat
+2018-07-05 11:22:58,367 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/InstallUtil.InstallLog
+2018-07-05 11:22:58,370 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/MySql.Data.dll
+2018-07-05 11:22:58,376 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/Newtonsoft.Json.dll
+2018-07-05 11:22:58,380 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/Newtonsoft.Json.xml
+2018-07-05 11:22:58,384 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/ServiceIDCardReader.exe
+2018-07-05 11:22:58,388 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/ServiceIDCardReader.exe.config
+2018-07-05 11:22:58,390 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/ServiceIDCardReader.InstallLog
+2018-07-05 11:22:58,393 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/ServiceIDCardReader.pdb
+2018-07-05 11:22:58,396 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceIDCardReader/ServiceIDCardReaderSrv.exe.lnk
+2018-07-05 11:22:58,399 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/
+2018-07-05 11:22:58,402 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:58,405 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:58,408 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Invoice.dll
+2018-07-05 11:22:58,411 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Invoice.dll.config
+2018-07-05 11:22:58,414 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Invoice.pdb
+2018-07-05 11:22:58,417 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:58,420 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:58,423 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:58,426 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelper.RPC.Models.dll
+2018-07-05 11:22:58,429 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/HotelHelper.RPC.Utility.dll
+2018-07-05 11:22:58,433 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/install - ¸±±¾.bat
+2018-07-05 11:22:58,436 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/install.bat
+2018-07-05 11:22:58,439 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/MySql.Data.dll
+2018-07-05 11:22:58,443 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/Newtonsoft.Json.dll
+2018-07-05 11:22:58,446 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/Newtonsoft.Json.xml
+2018-07-05 11:22:58,451 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/ServiceInvoice.exe
+2018-07-05 11:22:58,455 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/ServiceInvoice.exe.config
+2018-07-05 11:22:58,458 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/ServiceInvoice.InstallLog
+2018-07-05 11:22:58,462 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/ServiceInvoice.pdb
+2018-07-05 11:22:58,466 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/XMLFile1.xml
+2018-07-05 11:22:58,469 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceInvoice/XMLFile2.xml
+2018-07-05 11:22:58,473 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/
+2018-07-05 11:22:58,475 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/
+2018-07-05 11:22:58,478 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/
+2018-07-05 11:22:58,481 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/
+2018-07-05 11:22:58,483 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/acr120u.dll
+2018-07-05 11:22:58,486 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/AcsReader.dll
+2018-07-05 11:22:58,491 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/btlock57L.dll
+2018-07-05 11:22:58,497 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/btlock73L.dll
+2018-07-05 11:22:58,503 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/btmf1232.dll
+2018-07-05 11:22:58,506 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/btmf1usb.dll
+2018-07-05 11:22:58,511 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/CH375DLL.DLL
+2018-07-05 11:22:58,514 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/Data.dll
+2018-07-05 11:22:58,519 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/EasyD12_500.dll
+2018-07-05 11:22:58,522 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/zymsr232.dll
+2018-07-05 11:22:58,525 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/zymurusb.dll
+2018-07-05 11:22:58,528 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BDLock/º¯ÊýËµÃ÷ÎÄµµ.doc
+2018-07-05 11:22:58,531 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/
+2018-07-05 11:22:58,534 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/
+2018-07-05 11:22:58,536 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:58,538 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/libInterfaceT307V10.dll
+2018-07-05 11:22:58,541 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/libstdc++-6.dll
+2018-07-05 11:22:58,546 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/libwinpthread-1.dll
+2018-07-05 11:22:58,549 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x64/nspr4.dll
+2018-07-05 11:22:58,553 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/
+2018-07-05 11:22:58,555 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:58,557 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/libInterfaceT307V10.dll
+2018-07-05 11:22:58,561 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/libstdc++-6.dll
+2018-07-05 11:22:58,565 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/libwinpthread-1.dll
+2018-07-05 11:22:58,568 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/BZ_V9/x86/nspr4.dll
+2018-07-05 11:22:58,572 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/
+2018-07-05 11:22:58,575 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/EasyD12_500.dll
+2018-07-05 11:22:58,577 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/HSDApp.dll
+2018-07-05 11:22:58,580 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/Interop.DigiCard.dll
+2018-07-05 11:22:58,584 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MasterCom.dll
+2018-07-05 11:22:58,588 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MasterRD.dll
+2018-07-05 11:22:58,591 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MF1Card.dll
+2018-07-05 11:22:58,594 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MFC42D.DLL
+2018-07-05 11:22:58,600 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MFCO42D.DLL
+2018-07-05 11:22:58,606 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MSVCRTD.DLL
+2018-07-05 11:22:58,611 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MURDJE.dll
+2018-07-05 11:22:58,616 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/Mwic_32.dll
+2018-07-05 11:22:58,621 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/MWRF32.dll
+2018-07-05 11:22:58,626 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/Reg.bat
+2018-07-05 11:22:58,630 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/regsvr32.exe
+2018-07-05 11:22:58,633 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/DJELock/Setting.ini
+2018-07-05 11:22:58,636 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/JW/
+2018-07-05 11:22:58,638 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/JW/LockDll.dll
+2018-07-05 11:22:58,641 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/
+2018-07-05 11:22:58,643 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/DataReader.dll
+2018-07-05 11:22:58,647 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/des.dll
+2018-07-05 11:22:58,650 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/EasyD12_500.dll
+2018-07-05 11:22:58,653 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/EasyZUSBMulti.dll
+2018-07-05 11:22:58,656 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/HOOKS_M1.dll
+2018-07-05 11:22:58,659 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/HSDApp.dll
+2018-07-05 11:22:58,662 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/LockSDK.dll
+2018-07-05 11:22:58,664 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/MF0SIM.dll
+2018-07-05 11:22:58,667 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/PubFuns.dll
+2018-07-05 11:22:58,669 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/RC500USB.dll
+2018-07-05 11:22:58,672 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/RF50S.dll
+2018-07-05 11:22:58,675 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/RF57S.dll
+2018-07-05 11:22:58,678 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/MDLock/Rf_Rw.dll
+2018-07-05 11:22:58,681 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/PLD/
+2018-07-05 11:22:58,683 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/PLD/D12F.dll
+2018-07-05 11:22:58,688 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/PLD/MFC42D.DLL
+2018-07-05 11:22:58,692 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/PLD/MSVCRTD.DLL
+2018-07-05 11:22:58,695 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/PLD/V9RF.dll
+2018-07-05 11:22:58,701 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/
+2018-07-05 11:22:58,703 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/DataReader.dll
+2018-07-05 11:22:58,705 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/des.dll
+2018-07-05 11:22:58,708 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/EasyD12_500.dll
+2018-07-05 11:22:58,710 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/EasyZUSBMulti.dll
+2018-07-05 11:22:58,713 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/HOOKS_M1.dll
+2018-07-05 11:22:58,716 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/HSDApp.dll
+2018-07-05 11:22:58,719 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockCard.dll
+2018-07-05 11:22:58,721 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockInfo.dll
+2018-07-05 11:22:58,724 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockReg.exe
+2018-07-05 11:22:58,727 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockSDK.dll
+2018-07-05 11:22:58,729 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockSDK_Demo.exe
+2018-07-05 11:22:58,732 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockSDK_Demo.pdb
+2018-07-05 11:22:58,735 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockSDK_Demo.vshost.exe
+2018-07-05 11:22:58,738 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/LockSDK_Demo.vshost.exe.manifest
+2018-07-05 11:22:58,747 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/MF0SIM.dll
+2018-07-05 11:22:58,753 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/PubFuns.dll
+2018-07-05 11:22:58,756 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/RC500USB.dll
+2018-07-05 11:22:58,759 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/RF50S.dll
+2018-07-05 11:22:58,761 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/RF57S.dll
+2018-07-05 11:22:58,769 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/Rf_Rw.dll
+2018-07-05 11:22:58,772 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/ToolsLanguage-en.ini
+2018-07-05 11:22:58,775 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/TG/ToolsLanguage.ini
+2018-07-05 11:22:58,778 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/WR/
+2018-07-05 11:22:58,788 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/WR/CardWR.dll
+2018-07-05 11:22:58,792 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/
+2018-07-05 11:22:58,794 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/d12.dll
+2018-07-05 11:22:58,796 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/d12c.dll
+2018-07-05 11:22:58,805 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/JKXYLOCK.dll
+2018-07-05 11:22:58,808 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/LCRFRW_SDK.dll
+2018-07-05 11:22:58,811 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/proRFL.dll
+2018-07-05 11:22:58,814 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/proRFL.lib
+2018-07-05 11:22:58,832 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/dll/Lock/XYD/XYID.dll
+2018-07-05 11:22:58,835 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:58,837 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:58,841 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Lock.dll
+2018-07-05 11:22:58,851 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Lock.dll.config
+2018-07-05 11:22:58,853 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Lock.pdb
+2018-07-05 11:22:58,856 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:58,859 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:58,863 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:58,866 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.ServiceLock.exe
+2018-07-05 11:22:58,869 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.ServiceLock.exe.config
+2018-07-05 11:22:58,871 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.ServiceLock.InstallLog
+2018-07-05 11:22:58,875 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelp.IntelligentClient.ServiceLock.pdb
+2018-07-05 11:22:58,878 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelper.RPC.Models.dll
+2018-07-05 11:22:58,880 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/HotelHelper.RPC.Utility.dll
+2018-07-05 11:22:58,883 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/install - ¸±±¾.bat
+2018-07-05 11:22:58,887 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/install.bat
+2018-07-05 11:22:58,890 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/K750.dll
+2018-07-05 11:22:58,893 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/K750.pdb
+2018-07-05 11:22:58,895 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceLock/MySql.Data.dll
+2018-07-05 11:22:58,899 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/
+2018-07-05 11:22:58,901 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/
+2018-07-05 11:22:58,903 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/ACT_F3_7000.dll
+2018-07-05 11:22:58,907 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/ACT_F3_7000_bak.dll
+2018-07-05 11:22:58,912 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/epson532.dll
+2018-07-05 11:22:58,919 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/FreeImage.dll
+2018-07-05 11:22:58,927 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Landi_SIU_Driver.dll
+2018-07-05 11:22:58,930 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/
+2018-07-05 11:22:58,933 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/
+2018-07-05 11:22:58,935 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/acr120u.dll
+2018-07-05 11:22:58,937 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/AcsReader.dll
+2018-07-05 11:22:58,941 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/btlock57L.dll
+2018-07-05 11:22:58,945 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/btlock73L.dll
+2018-07-05 11:22:58,949 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/btmf1232.dll
+2018-07-05 11:22:58,952 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/btmf1usb.dll
+2018-07-05 11:22:58,955 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/CH375DLL.DLL
+2018-07-05 11:22:58,958 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/Data.dll
+2018-07-05 11:22:58,962 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/EasyD12_500.dll
+2018-07-05 11:22:58,964 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/zymsr232.dll
+2018-07-05 11:22:58,967 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/zymurusb.dll
+2018-07-05 11:22:58,970 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BDLock/º¯ÊýËµÃ÷ÎÄµµ.doc
+2018-07-05 11:22:58,972 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/
+2018-07-05 11:22:58,974 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/
+2018-07-05 11:22:58,976 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:58,978 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/libInterfaceT307V10.dll
+2018-07-05 11:22:58,981 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/libstdc++-6.dll
+2018-07-05 11:22:58,986 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/libwinpthread-1.dll
+2018-07-05 11:22:58,988 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x64/nspr4.dll
+2018-07-05 11:22:58,992 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/
+2018-07-05 11:22:58,994 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/libgcc_s_sjlj-1.dll
+2018-07-05 11:22:58,996 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/libInterfaceT307V10.dll
+2018-07-05 11:22:58,999 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/libstdc++-6.dll
+2018-07-05 11:22:59,003 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/libwinpthread-1.dll
+2018-07-05 11:22:59,006 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/BZ_V9/x86/nspr4.dll
+2018-07-05 11:22:59,009 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/
+2018-07-05 11:22:59,011 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/EasyD12_500.dll
+2018-07-05 11:22:59,014 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/HSDApp.dll
+2018-07-05 11:22:59,016 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/Interop.DigiCard.dll
+2018-07-05 11:22:59,019 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MasterCom.dll
+2018-07-05 11:22:59,021 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MasterRD.dll
+2018-07-05 11:22:59,025 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MF1Card.dll
+2018-07-05 11:22:59,027 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MFC42D.DLL
+2018-07-05 11:22:59,031 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MFCO42D.DLL
+2018-07-05 11:22:59,035 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MSVCRTD.DLL
+2018-07-05 11:22:59,039 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MURDJE.dll
+2018-07-05 11:22:59,042 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/Mwic_32.dll
+2018-07-05 11:22:59,045 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/MWRF32.dll
+2018-07-05 11:22:59,047 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/Reg.bat
+2018-07-05 11:22:59,050 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/regsvr32.exe
+2018-07-05 11:22:59,053 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/DJELock/Setting.ini
+2018-07-05 11:22:59,056 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/JW/
+2018-07-05 11:22:59,058 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/JW/LockDll.dll
+2018-07-05 11:22:59,060 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/
+2018-07-05 11:22:59,062 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/DataReader.dll
+2018-07-05 11:22:59,065 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/des.dll
+2018-07-05 11:22:59,067 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/EasyD12_500.dll
+2018-07-05 11:22:59,070 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/EasyZUSBMulti.dll
+2018-07-05 11:22:59,073 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/HOOKS_M1.dll
+2018-07-05 11:22:59,075 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/HSDApp.dll
+2018-07-05 11:22:59,084 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/LockSDK.dll
+2018-07-05 11:22:59,088 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/MF0SIM.dll
+2018-07-05 11:22:59,091 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/PubFuns.dll
+2018-07-05 11:22:59,094 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/RC500USB.dll
+2018-07-05 11:22:59,098 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/RF50S.dll
+2018-07-05 11:22:59,102 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/RF57S.dll
+2018-07-05 11:22:59,105 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/MDLock/Rf_Rw.dll
+2018-07-05 11:22:59,108 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/PLD/
+2018-07-05 11:22:59,110 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/PLD/D12F.dll
+2018-07-05 11:22:59,114 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/PLD/MFC42D.DLL
+2018-07-05 11:22:59,119 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/PLD/MSVCRTD.DLL
+2018-07-05 11:22:59,122 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/PLD/V9RF.dll
+2018-07-05 11:22:59,126 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/
+2018-07-05 11:22:59,128 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/DataReader.dll
+2018-07-05 11:22:59,131 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/des.dll
+2018-07-05 11:22:59,133 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/EasyD12_500.dll
+2018-07-05 11:22:59,136 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/EasyZUSBMulti.dll
+2018-07-05 11:22:59,139 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/HOOKS_M1.dll
+2018-07-05 11:22:59,142 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/HSDApp.dll
+2018-07-05 11:22:59,144 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockCard.dll
+2018-07-05 11:22:59,147 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockInfo.dll
+2018-07-05 11:22:59,150 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockReg.exe
+2018-07-05 11:22:59,154 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockSDK.dll
+2018-07-05 11:22:59,157 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockSDK_Demo.exe
+2018-07-05 11:22:59,159 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockSDK_Demo.pdb
+2018-07-05 11:22:59,162 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockSDK_Demo.vshost.exe
+2018-07-05 11:22:59,165 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/LockSDK_Demo.vshost.exe.manifest
+2018-07-05 11:22:59,167 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/MF0SIM.dll
+2018-07-05 11:22:59,170 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/PubFuns.dll
+2018-07-05 11:22:59,173 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/RC500USB.dll
+2018-07-05 11:22:59,176 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/RF50S.dll
+2018-07-05 11:22:59,178 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/RF57S.dll
+2018-07-05 11:22:59,181 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/Rf_Rw.dll
+2018-07-05 11:22:59,184 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/ToolsLanguage-en.ini
+2018-07-05 11:22:59,187 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/TG/ToolsLanguage.ini
+2018-07-05 11:22:59,189 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/WR/
+2018-07-05 11:22:59,191 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/WR/CardWR.dll
+2018-07-05 11:22:59,196 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/
+2018-07-05 11:22:59,198 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/d12.dll
+2018-07-05 11:22:59,201 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/d12c.dll
+2018-07-05 11:22:59,206 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/JKXYLOCK.dll
+2018-07-05 11:22:59,209 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/LCRFRW_SDK.dll
+2018-07-05 11:22:59,213 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/proRFL.dll
+2018-07-05 11:22:59,216 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/proRFL.lib
+2018-07-05 11:22:59,219 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/Lock/XYD/XYID.dll
+2018-07-05 11:22:59,222 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/dll/TxPrnMod.dll
+2018-07-05 11:22:59,226 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Common.dll
+2018-07-05 11:22:59,228 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Common.pdb
+2018-07-05 11:22:59,231 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Lock.dll
+2018-07-05 11:22:59,234 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Lock.dll.config
+2018-07-05 11:22:59,237 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Lock.pdb
+2018-07-05 11:22:59,239 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Models.dll
+2018-07-05 11:22:59,242 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Models.dll.config
+2018-07-05 11:22:59,246 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.Models.pdb
+2018-07-05 11:22:59,251 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ReceiptPrinter.dll
+2018-07-05 11:22:59,256 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ReceiptPrinter.pdb
+2018-07-05 11:22:59,260 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ServiceReceiptPrinter.exe
+2018-07-05 11:22:59,265 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ServiceReceiptPrinter.exe.config
+2018-07-05 11:22:59,270 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ServiceReceiptPrinter.InstallLog
+2018-07-05 11:22:59,273 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/HotelHelp.IntelligentClient.ServiceReceiptPrinter.pdb
+2018-07-05 11:22:59,278 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/ServiceReceiptPrinter/install.bat
+2018-07-05 11:22:59,282 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/start.bat
+2018-07-05 11:22:59,286 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/stop.bat
+2018-07-05 11:22:59,289 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/unInstall.bat
+2018-07-05 11:22:59,292 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/
+2018-07-05 11:22:59,294 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/install.bat
+2018-07-05 11:22:59,296 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/InstallUtil.InstallLog
+2018-07-05 11:22:59,299 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/WcfAndServiceDemo.exe
+2018-07-05 11:22:59,302 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/WcfAndServiceDemo.InstallLog
+2018-07-05 11:22:59,306 [1]INFO  HotelUpdateService.update.utils.ZipHelper - Info: untar bin/WcfAndServiceDemo/WcfAndServiceDemo.pdb

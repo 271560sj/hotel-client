@@ -1,0 +1,17 @@
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\HotelUpdateService.exe
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\log4net.dll
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\HotelUpdateService.csproj.CoreCompileInputs.cache
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\HotelUpdateService.exe.config
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\HotelUpdateService.pdb
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\Newtonsoft.Json.dll
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\log4net.pdb
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\log4net.xml
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\Newtonsoft.Json.pdb
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\Newtonsoft.Json.xml
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\HotelUpdateService.csproj.CopyComplete
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\HotelUpdateService.exe
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\HotelUpdateService.pdb
+D:\idespace\HotelUpdateService\HotelUpdateService\bin\Release\Interop.TaskScheduler.dll
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\Interop.TaskScheduler.dll
+D:\idespace\HotelUpdateService\HotelUpdateService\obj\Release\HotelUpdateService.csproj.ResolveComReference.cache

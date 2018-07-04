@@ -1,0 +1,42 @@
+﻿正在安装程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在安装服务 HotelClientUpdateService...
+已成功安装服务 HotelClientUpdateService。
+正在日志 Application 中创建 EventLog 源 HotelClientUpdateService...
+正在提交程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在卸载程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在移除 EventLog 源 HotelClientUpdateService。
+正在从系统中移除服务 HotelClientUpdateService...
+已成功地从系统中移除服务 HotelClientUpdateService。
+正在安装程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在安装服务 HotelClientUpdateService...
+已成功安装服务 HotelClientUpdateService。
+正在日志 Application 中创建 EventLog 源 HotelClientUpdateService...
+正在提交程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在卸载程序集“d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.InstallLog
+   assemblypath = d:\idespace\HotelUpdateService\HotelUpdateService\bin\Debug\HotelUpdateService.exe
+正在移除 EventLog 源 HotelClientUpdateService。
+正在从系统中移除服务 HotelClientUpdateService...
+已成功地从系统中移除服务 HotelClientUpdateService。
